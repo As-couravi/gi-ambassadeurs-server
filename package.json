@@ -1,6 +1,6 @@
 {
   "name": "gi-ambassadeurs-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Serveur backend pour GI Ambassadeurs",
   "main": "server.js",
   "scripts": {
